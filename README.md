@@ -1,4 +1,4 @@
-# Fitness Tracker Analysis
+# Personal Fitness Tracker 
 
 This repository contains a Jupyter Notebook (`fitness_tracker.ipynb`) that performs an analysis of fitness-related data. The dataset includes information about users' exercise routines, calories burned, and other related metrics. The notebook explores the dataset, performs data cleaning, visualization, and provides insights into the data.
 
